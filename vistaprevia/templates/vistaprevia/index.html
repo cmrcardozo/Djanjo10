@@ -1,5 +1,6 @@
 {% extends "vistaprevia/plantilla.html" %}
 {% block content %}
+
 <h2>Bienvenido al Sitio {{ nombre_sitio }}!</h2>
 
 {% if para_minorista.incremento == '10' %}
@@ -9,6 +10,5 @@
  {% else %}
  <h2>El incremento para Minoristas es del:{{para_minorista.incremento}}%.!</h2>
  {% endif%} 
-
  
 {% endblock %} 
