@@ -1,11 +1,4 @@
-<!Doctype html>
-<html lang="es">
- <head>
- <meta charset="utf-8">
- <title>Patrón mvc</title>
- <meta name="viewport" content="width=device-width, initialscale=1"> 
- </head>
- <body>
- <h2>Bienvenido a : {{ nombre_sitio }}!</h2>
- </body>
-</html> 
+{% extends "vistaprevia/plantilla.html" %}
+{% block content %}
+<h2>Bienvenido al Sitio {{ nombre_sitio }}.!</h2>
+{% endblock %} 
