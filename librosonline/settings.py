@@ -71,6 +71,7 @@ TEMPLATES = [
 WSGI_APPLICATION = 'librosonline.wsgi.application'
 
 STATICFILES_DIRS = [os.path.join(BASE_DIR, 'static')]
+MEDIA_ROOT = os.path.join(BASE_DIR, media) 
 
 # Database
 # https://docs.djangoproject.com/en/2.1/ref/settings/#databases
