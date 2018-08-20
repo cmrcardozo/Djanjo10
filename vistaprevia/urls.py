@@ -1,7 +1,9 @@
-from django.conf.urls import include,url
+from django.conf.urls import url
+
 from vistaprevia import views
+from vistaprevia.views import Home, CargarImagen
 
 urlpatterns = [
-    url(r'^$',views.index,name='index'),
-	url(r'^cargar/', views.cargar_imagen, name='cargar'), 
+    url(r'^$', Home.as_view(), name='index'),
+    url(r'^cargar/', CargarImagen.as_view(), name='cargar'),
 ]
