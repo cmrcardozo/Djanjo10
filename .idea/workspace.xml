@@ -2,12 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="39934b0d-9367-4bea-9299-711ee6820dd4" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/db.sqlite3" afterPath="$PROJECT_DIR$/db.sqlite3" />
-      <change beforePath="$PROJECT_DIR$/manage.py" afterPath="$PROJECT_DIR$/manage.py" />
-      <change beforePath="$PROJECT_DIR$/vistaprevia/forms.py" afterPath="$PROJECT_DIR$/vistaprevia/forms.py" />
+      <change beforePath="$PROJECT_DIR$/vistaprevia/static/vistaprevia/css/bootstrap.css" afterPath="$PROJECT_DIR$/vistaprevia/static/vistaprevia/css/bootstrap.css" />
+      <change beforePath="$PROJECT_DIR$/vistaprevia/static/vistaprevia/css/style.css" afterPath="$PROJECT_DIR$/vistaprevia/static/vistaprevia/css/style.css" />
+      <change beforePath="$PROJECT_DIR$/vistaprevia/static/vistaprevia/js/bootstrap.js" afterPath="$PROJECT_DIR$/vistaprevia/static/vistaprevia/js/bootstrap.js" />
       <change beforePath="$PROJECT_DIR$/vistaprevia/templates/vistaprevia/formulario.html" afterPath="$PROJECT_DIR$/vistaprevia/templates/vistaprevia/formulario.html" />
-      <change beforePath="$PROJECT_DIR$/vistaprevia/urls.py" afterPath="$PROJECT_DIR$/vistaprevia/urls.py" />
-      <change beforePath="$PROJECT_DIR$/vistaprevia/views.py" afterPath="$PROJECT_DIR$/vistaprevia/views.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -33,7 +31,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="urls.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="urls.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/vistaprevia/urls.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="119">
@@ -70,8 +68,40 @@
       <file leaf-file-name="formulario.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/vistaprevia/templates/vistaprevia/formulario.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="27" lean-forward="true" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
+            <state relative-caret-position="204">
+              <caret line="12" column="45" lean-forward="false" selection-start-line="12" selection-start-column="45" selection-end-line="12" selection-end-column="45" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="bootstrap.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/vistaprevia/static/vistaprevia/js/bootstrap.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="376">
+              <caret line="2377" column="0" lean-forward="true" selection-start-line="2377" selection-start-column="0" selection-end-line="2377" selection-end-column="0" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="bootstrap.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/vistaprevia/static/vistaprevia/css/bootstrap.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="376">
+              <caret line="6757" column="0" lean-forward="true" selection-start-line="6757" selection-start-column="0" selection-end-line="6757" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/vistaprevia/static/vistaprevia/css/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -108,8 +138,11 @@
         <option value="$PROJECT_DIR$/manage.py" />
         <option value="$PROJECT_DIR$/librosonline/urls.py" />
         <option value="$PROJECT_DIR$/vistaprevia/views.py" />
-        <option value="$PROJECT_DIR$/vistaprevia/templates/vistaprevia/formulario.html" />
         <option value="$PROJECT_DIR$/vistaprevia/urls.py" />
+        <option value="$PROJECT_DIR$/vistaprevia/templates/vistaprevia/formulario.html" />
+        <option value="$PROJECT_DIR$/vistaprevia/static/vistaprevia/js/bootstrap.js" />
+        <option value="$PROJECT_DIR$/vistaprevia/static/vistaprevia/css/bootstrap.css" />
+        <option value="$PROJECT_DIR$/vistaprevia/static/vistaprevia/css/style.css" />
       </list>
     </option>
   </component>
@@ -308,7 +341,7 @@
         <state relative-caret-position="272">
           <caret line="22" column="1" lean-forward="true" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
           <folding>
-            <element signature="e#636#668#0" expanded="true" />
+            <element signature="e#636#668#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -318,7 +351,7 @@
         <state relative-caret-position="374">
           <caret line="22" column="0" lean-forward="true" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
           <folding>
-            <element signature="e#22#31#0" expanded="true" />
+            <element signature="e#22#31#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -383,14 +416,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/vistaprevia/templates/vistaprevia/formulario.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="27" lean-forward="true" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/vistaprevia/urls.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
@@ -398,6 +423,40 @@
           <folding>
             <element signature="e#0#32#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vistaprevia/templates/vistaprevia/formulario.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="45" lean-forward="false" selection-start-line="12" selection-start-column="45" selection-end-line="12" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vistaprevia/static/vistaprevia/js/bootstrap.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="376">
+          <caret line="2377" column="0" lean-forward="true" selection-start-line="2377" selection-start-column="0" selection-end-line="2377" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vistaprevia/static/vistaprevia/css/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="376">
+          <caret line="6757" column="0" lean-forward="true" selection-start-line="6757" selection-start-column="0" selection-end-line="6757" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vistaprevia/static/vistaprevia/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+          <folding />
         </state>
       </provider>
     </entry>

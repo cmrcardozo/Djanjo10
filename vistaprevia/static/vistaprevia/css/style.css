@@ -1,1 +1,27 @@
-h2{ text-align:center;} 
+h2{ text-align:center;}
+
+form{
+    padding-top: 30px;
+}
+form label{
+        width: 100%;
+        text-align:center;
+}
+form input{
+	width: 100%;
+}
+
+form .boton{float:right;
+	float:right;
+	text-decoration:none;
+	display:block;
+	margin-top:7px;
+	padding:7px;
+	color:#fff;
+	border-top: 1px solid @base_intermedio;
+	background-color:@base_claro;
+	border-radius:5px; cursor:pointer;   margin:5px;
+}
+form .boton:hover{
+	background-color:@base_intermedio;
+	}
