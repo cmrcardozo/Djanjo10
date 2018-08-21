@@ -19,3 +19,11 @@
          </div>
       </main>
 {% endblock %}
+{% block javascript %}
+   <script src="{% static 'vistaprevia/js/jquery-ui.js' %}"></script>
+   <script>
+      $( "#id_fecha_publicacion" ).datepicker({
+         inline: true
+      });
+   </script>
+{% endblock %}

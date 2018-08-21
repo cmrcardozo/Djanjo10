@@ -10,39 +10,57 @@ from django.views.generic import View
 
 
 class Home(View):
-
     template = 'vistaprevia/index.html'
 
     def get(self, request, *args, **kwargs):
-
         params = {}
-        params ['para_minorista'] = { 'tipo_usuario' : 'minorista' , 'incremento' : '25'}
-        params['para_mayorista'] = { 'tipo_usuario' : 'mayorista' , 'incremento' : '10'}
+        params['para_minorista'] = {'tipo_usuario': 'minorista', 'incremento': '25'}
+        params['para_mayorista'] = {'tipo_usuario': 'mayorista', 'incremento': '10'}
         return render(request, self.template, params)
 
 
 class CargarImagen(View):
-
     template = 'vistaprevia/formulario.html'
 
     def get(self, request, *args, **kwargs):
         form = CargarForm()
         params = {}
-        params ['form'] = form
+        params['form'] = form
         return render(request, self.template, params)
-
 
     def post(self, request, *args, **kwargs):
         form = CargarForm(request.POST, request.FILES)
         params = {}
-        params ['form'] = form
+        params['form'] = form
         if form.is_valid():
             producto = form.cleaned_data['producto']
             fecha_publicacion = form.cleaned_data['fecha_publicacion']
             ruta_imagen = form.cleaned_data['ruta_imagen']
 
-            newdoc = Producto(producto = producto, fecha_publicacion = fecha_publicacion, ruta_imagen = ruta_imagen)
+            newdoc = Producto(producto=producto, fecha_publicacion=fecha_publicacion, ruta_imagen=ruta_imagen)
             newdoc.save()
             return redirect("index")
         else:
             return render(request, 'vistaprevia/formulario.html', {'form': form})
+
+
+def ver_imagen(request, producto_id):
+    try:
+        producto = Producto.objects.get(pk=producto_id)
+    except Producto.DoesNotExist:
+        raise Http404
+    return render_to_response('vistaprevia/verimagen.html', {
+        'producto': producto,
+        'error_message': "No has seleccionado un producto.",
+    }, content_type=RequestContext(request))
+
+
+def ver_imagenes(request):
+    try:
+        productos = Producto.objects.all()
+    except Producto.DoesNotExist:
+        raise Http404
+    return render_to_response('vistaprevia/verimagenes.html', {
+        'productos': productos,
+        'error_message': "No has seleccionado un producto.",
+    }, content_type=RequestContext(request))

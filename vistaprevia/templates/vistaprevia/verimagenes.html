@@ -1,0 +1,20 @@
+{% extends "vistaprevia/plantilla.html" %}
+{% block content %}
+      <div class="container">
+         <div class="jumbotron">
+            <h2>Ver Cada Todas las Imagenes</h2>
+         </div>
+      </div>
+
+      <main class="container">
+         <div class="row" >
+            <section class="col-12" >
+               {% for productos in productos %}
+                  <a href="{% url 'ver' productos.id %}">
+                  <img src="/media/{{productos.ruta_imagen}}"  alt="My image" width="20%"/>
+                   </a>
+               {% endfor %}
+            </section>
+         </div>
+      </main>
+{% endblock %}
