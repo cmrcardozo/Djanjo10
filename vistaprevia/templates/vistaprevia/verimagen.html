@@ -2,18 +2,19 @@
 {% block content %}
       <div class="container">
          <div class="jumbotron">
-            <h2>Ver Cada Imagen</h2>
+            <h1>Ver Imagen</h1>
          </div>
       </div>
 
       <main class="container">
-         <div class="row" >
-            <section class="col-12" >
-               <h1> El id de la imagen es: {{ producto.id }}</h1>
+         <div class="right" >
+            <section class="col-12"  >
+               <h2> Id de la imagen: {{ producto.id }}</h2>
+               <h2> Nombre del Libro: {{ producto.producto }}</h2>
                {% load staticfiles %}
                <img src="/media/{{producto.ruta_imagen}}"  alt="My image" width="20%"/>
 
-               <a href="{% url 'verimagenes' %}">Ver todas las imagenes</a>
+               <a href="{% url 'verimagenes' %}">Ver Todas las Imágenes</a>
             </section>
          </div>
       </main>
