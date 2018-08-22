@@ -1,7 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="39934b0d-9367-4bea-9299-711ee6820dd4" name="Default" comment="" />
+    <list default="true" id="39934b0d-9367-4bea-9299-711ee6820dd4" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/vistaprevia/static/vistaprevia/css/jquery-ui.css" afterPath="$PROJECT_DIR$/vistaprevia/static/vistaprevia/css/jquery-ui.css" />
+      <change beforePath="$PROJECT_DIR$/vistaprevia/static/vistaprevia/jquery-ui-1.12.1.custom/images/ui-bg_glass_20_555555_1x400.png" afterPath="$PROJECT_DIR$/vistaprevia/static/vistaprevia/jquery-ui-1.12.1.custom/images/ui-bg_glass_20_555555_1x400.png" />
+      <change beforePath="$PROJECT_DIR$/vistaprevia/static/vistaprevia/jquery-ui-1.12.1.custom/images/ui-bg_glass_40_0078a3_1x400.png" afterPath="$PROJECT_DIR$/vistaprevia/static/vistaprevia/jquery-ui-1.12.1.custom/images/ui-bg_glass_40_0078a3_1x400.png" />
+      <change beforePath="$PROJECT_DIR$/vistaprevia/static/vistaprevia/jquery-ui-1.12.1.custom/images/ui-bg_glass_40_ffc73d_1x400.png" afterPath="$PROJECT_DIR$/vistaprevia/static/vistaprevia/jquery-ui-1.12.1.custom/images/ui-bg_glass_40_ffc73d_1x400.png" />
+      <change beforePath="$PROJECT_DIR$/vistaprevia/static/vistaprevia/jquery-ui-1.12.1.custom/images/ui-bg_gloss-wave_25_333333_500x100.png" afterPath="$PROJECT_DIR$/vistaprevia/static/vistaprevia/jquery-ui-1.12.1.custom/images/ui-bg_gloss-wave_25_333333_500x100.png" />
+      <change beforePath="$PROJECT_DIR$/vistaprevia/static/vistaprevia/jquery-ui-1.12.1.custom/images/ui-bg_highlight-soft_80_eeeeee_1x100.png" afterPath="$PROJECT_DIR$/vistaprevia/static/vistaprevia/jquery-ui-1.12.1.custom/images/ui-bg_highlight-soft_80_eeeeee_1x100.png" />
+      <change beforePath="$PROJECT_DIR$/vistaprevia/static/vistaprevia/jquery-ui-1.12.1.custom/images/ui-bg_inset-soft_25_000000_1x100.png" afterPath="$PROJECT_DIR$/vistaprevia/static/vistaprevia/jquery-ui-1.12.1.custom/images/ui-bg_inset-soft_25_000000_1x100.png" />
+      <change beforePath="$PROJECT_DIR$/vistaprevia/static/vistaprevia/jquery-ui-1.12.1.custom/jquery-ui.css" afterPath="$PROJECT_DIR$/vistaprevia/static/vistaprevia/jquery-ui-1.12.1.custom/jquery-ui.css" />
+      <change beforePath="$PROJECT_DIR$/vistaprevia/static/vistaprevia/jquery-ui-1.12.1.custom/jquery-ui.js" afterPath="$PROJECT_DIR$/vistaprevia/static/vistaprevia/jquery-ui-1.12.1.custom/jquery-ui.js" />
+      <change beforePath="$PROJECT_DIR$/vistaprevia/static/vistaprevia/jquery-ui-1.12.1.custom/jquery-ui.min.css" afterPath="$PROJECT_DIR$/vistaprevia/static/vistaprevia/jquery-ui-1.12.1.custom/jquery-ui.min.css" />
+      <change beforePath="$PROJECT_DIR$/vistaprevia/static/vistaprevia/jquery-ui-1.12.1.custom/jquery-ui.min.js" afterPath="$PROJECT_DIR$/vistaprevia/static/vistaprevia/jquery-ui-1.12.1.custom/jquery-ui.min.js" />
+      <change beforePath="$PROJECT_DIR$/vistaprevia/static/vistaprevia/jquery-ui-1.12.1.custom/jquery-ui.structure.min.css" afterPath="$PROJECT_DIR$/vistaprevia/static/vistaprevia/jquery-ui-1.12.1.custom/jquery-ui.structure.min.css" />
+      <change beforePath="$PROJECT_DIR$/vistaprevia/static/vistaprevia/jquery-ui-1.12.1.custom/jquery-ui.theme.css" afterPath="$PROJECT_DIR$/vistaprevia/static/vistaprevia/jquery-ui-1.12.1.custom/jquery-ui.theme.css" />
+      <change beforePath="$PROJECT_DIR$/vistaprevia/static/vistaprevia/jquery-ui-1.12.1.custom/jquery-ui.theme.min.css" afterPath="$PROJECT_DIR$/vistaprevia/static/vistaprevia/jquery-ui-1.12.1.custom/jquery-ui.theme.min.css" />
+      <change beforePath="$PROJECT_DIR$/vistaprevia/static/vistaprevia/js/jquery-ui.js" afterPath="$PROJECT_DIR$/vistaprevia/static/vistaprevia/js/jquery-ui.js" />
+      <change beforePath="$PROJECT_DIR$/vistaprevia/static/vistaprevia/js/jquery.js" afterPath="$PROJECT_DIR$/vistaprevia/static/vistaprevia/js/jquery.js" />
+      <change beforePath="$PROJECT_DIR$/vistaprevia/templates/vistaprevia/formulario.html" afterPath="$PROJECT_DIR$/vistaprevia/templates/vistaprevia/formulario.html" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,6 +36,28 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="views.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/vistaprevia/views.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="466">
+              <caret line="65" column="44" lean-forward="false" selection-start-line="65" selection-start-column="44" selection-end-line="65" selection-end-column="44" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="forms.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/vistaprevia/forms.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="57" lean-forward="false" selection-start-line="10" selection-start-column="57" selection-end-line="10" selection-end-column="57" />
+              <folding>
+                <element signature="e#0#34#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="verimagen.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/vistaprevia/templates/vistaprevia/verimagen.html">
           <provider selected="true" editor-type-id="text-editor">
@@ -27,11 +68,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="base.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/vistaprevia/templates/vistaprevia/base.html">
+      <file leaf-file-name="urls.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/librosonline/urls.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+            <state relative-caret-position="34">
+              <caret line="2" column="32" lean-forward="false" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
               <folding />
             </state>
           </provider>
@@ -57,11 +98,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="formulario.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="formulario.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/vistaprevia/templates/vistaprevia/formulario.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="31" lean-forward="false" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="31" />
+            <state relative-caret-position="375">
+              <caret line="23" column="96" lean-forward="false" selection-start-line="23" selection-start-column="96" selection-end-line="23" selection-end-column="96" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="urls.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/vistaprevia/urls.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="10" column="1" lean-forward="false" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -71,37 +122,7 @@
         <entry file="file://$PROJECT_DIR$/vistaprevia/models.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="255">
-              <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="bootstrap.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/vistaprevia/static/vistaprevia/js/bootstrap.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-7089">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/vistaprevia/static/vistaprevia/css/style.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="476">
-              <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="settings.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/librosonline/settings.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="127" column="0" lean-forward="false" selection-start-line="127" selection-start-column="0" selection-end-line="127" selection-end-column="0" />
+              <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -124,6 +145,7 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>as_p</find>
+      <find>pick</find>
     </findStrings>
     <dirStrings>
       <dir>C:\Users\usuario\librosonline</dir>
@@ -147,9 +169,9 @@
         <option value="$PROJECT_DIR$/vistaprevia/static/vistaprevia/css/style.css" />
         <option value="$PROJECT_DIR$/vistaprevia/templates/vistaprevia/index.html" />
         <option value="$PROJECT_DIR$/vistaprevia/templates/vistaprevia/base.html" />
-        <option value="$PROJECT_DIR$/vistaprevia/templates/vistaprevia/formulario.html" />
         <option value="$PROJECT_DIR$/vistaprevia/templates/vistaprevia/verimagen.html" />
         <option value="$PROJECT_DIR$/vistaprevia/templates/vistaprevia/verimagenes.html" />
+        <option value="$PROJECT_DIR$/vistaprevia/templates/vistaprevia/formulario.html" />
       </list>
     </option>
   </component>
@@ -191,75 +213,11 @@
             <path>
               <item name="librosonline" type="b2602c69:ProjectViewProjectNode" />
               <item name="librosonline" type="462c0819:PsiDirectoryNode" />
-              <item name="media" type="462c0819:PsiDirectoryNode" />
+              <item name="librosonline" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="librosonline" type="b2602c69:ProjectViewProjectNode" />
               <item name="librosonline" type="462c0819:PsiDirectoryNode" />
-              <item name="media" type="462c0819:PsiDirectoryNode" />
-              <item name="fotos" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="librosonline" type="b2602c69:ProjectViewProjectNode" />
-              <item name="librosonline" type="462c0819:PsiDirectoryNode" />
-              <item name="media" type="462c0819:PsiDirectoryNode" />
-              <item name="fotos" type="462c0819:PsiDirectoryNode" />
-              <item name="2018" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="librosonline" type="b2602c69:ProjectViewProjectNode" />
-              <item name="librosonline" type="462c0819:PsiDirectoryNode" />
-              <item name="media" type="462c0819:PsiDirectoryNode" />
-              <item name="fotos" type="462c0819:PsiDirectoryNode" />
-              <item name="2018" type="462c0819:PsiDirectoryNode" />
-              <item name="08" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="librosonline" type="b2602c69:ProjectViewProjectNode" />
-              <item name="librosonline" type="462c0819:PsiDirectoryNode" />
-              <item name="media" type="462c0819:PsiDirectoryNode" />
-              <item name="fotos" type="462c0819:PsiDirectoryNode" />
-              <item name="2018" type="462c0819:PsiDirectoryNode" />
-              <item name="08" type="462c0819:PsiDirectoryNode" />
-              <item name="19" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="librosonline" type="b2602c69:ProjectViewProjectNode" />
-              <item name="librosonline" type="462c0819:PsiDirectoryNode" />
-              <item name="vistaprevia" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="librosonline" type="b2602c69:ProjectViewProjectNode" />
-              <item name="librosonline" type="462c0819:PsiDirectoryNode" />
-              <item name="vistaprevia" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="librosonline" type="b2602c69:ProjectViewProjectNode" />
-              <item name="librosonline" type="462c0819:PsiDirectoryNode" />
-              <item name="vistaprevia" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-              <item name="vistaprevia" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="librosonline" type="b2602c69:ProjectViewProjectNode" />
-              <item name="librosonline" type="462c0819:PsiDirectoryNode" />
-              <item name="vistaprevia" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-              <item name="vistaprevia" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="librosonline" type="b2602c69:ProjectViewProjectNode" />
-              <item name="librosonline" type="462c0819:PsiDirectoryNode" />
-              <item name="vistaprevia" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="librosonline" type="b2602c69:ProjectViewProjectNode" />
-              <item name="librosonline" type="462c0819:PsiDirectoryNode" />
-              <item name="vistaprevia" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
               <item name="vistaprevia" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -386,6 +344,7 @@
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3294271" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -395,7 +354,6 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -535,16 +493,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/vistaprevia/forms.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="24" lean-forward="false" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
-          <folding>
-            <element signature="e#0#34#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32/Lib/importlib/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2108">
@@ -563,38 +511,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/librosonline/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="32" lean-forward="false" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vistaprevia/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="952">
-          <caret line="65" column="44" lean-forward="false" selection-start-line="65" selection-start-column="44" selection-end-line="65" selection-end-column="44" />
-          <folding>
-            <element signature="e#0#35#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/vistaprevia/admin.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="6" column="44" lean-forward="true" selection-start-line="6" selection-start-column="44" selection-end-line="6" selection-end-column="44" />
-          <folding>
-            <element signature="e#0#32#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vistaprevia/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="1" lean-forward="false" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
           <folding>
             <element signature="e#0#32#0" expanded="false" />
           </folding>
@@ -647,9 +567,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="3" column="1760" lean-forward="false" selection-start-line="3" selection-start-column="1760" selection-end-line="3" selection-end-column="1760" />
-          <folding>
-            <element signature="n#!!doc" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -665,14 +583,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="33" lean-forward="false" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/vistaprevia/templates/vistaprevia/verimagen.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="53" lean-forward="false" selection-start-line="16" selection-start-column="53" selection-end-line="16" selection-end-column="53" />
           <folding />
         </state>
       </provider>
@@ -698,15 +608,83 @@
     <entry file="file://$PROJECT_DIR$/vistaprevia/models.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
-          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vistaprevia/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="466">
+          <caret line="65" column="44" lean-forward="false" selection-start-line="65" selection-start-column="44" selection-end-line="65" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32/Lib/site-packages/django/forms/formsets.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="408" column="30" lean-forward="false" selection-start-line="408" selection-start-column="30" selection-end-line="408" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36-32/Lib/site-packages/django/template/defaulttags.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="629" column="4" lean-forward="false" selection-start-line="629" selection-start-column="4" selection-end-line="629" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vistaprevia/forms.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="57" lean-forward="false" selection-start-line="10" selection-start-column="57" selection-end-line="10" selection-end-column="57" />
+          <folding>
+            <element signature="e#0#34#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vistaprevia/templates/vistaprevia/verimagen.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="53" lean-forward="false" selection-start-line="16" selection-start-column="53" selection-end-line="16" selection-end-column="53" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vistaprevia/static/vistaprevia/jquery-ui-1.12.1.custom/external/jquery/jquery.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="1123" column="51" lean-forward="false" selection-start-line="1123" selection-start-column="47" selection-end-line="1123" selection-end-column="51" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/vistaprevia/templates/vistaprevia/formulario.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="31" lean-forward="false" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="31" />
+        <state relative-caret-position="375">
+          <caret line="23" column="96" lean-forward="false" selection-start-line="23" selection-start-column="96" selection-end-line="23" selection-end-column="96" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/librosonline/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="32" lean-forward="false" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vistaprevia/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="10" column="1" lean-forward="false" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
           <folding />
         </state>
       </provider>
